@@ -250,5 +250,3 @@ chcp 65001  # UTF-8 코드페이지 설정
 ---
 
 **💡 팁**: 처음 사용하시는 분은 `python main.py`를 실행하고 옵션 4번(전체 분석)을 선택하시면 모든 기능을 체험할 수 있습니다!
-
-🤖 **Generated with [Claude Code](https://claude.ai/code)**
